@@ -1,0 +1,29 @@
+_repo: The-Reckoning_25441
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chambers, Robert W. (Robert William)
+    alias: Chambers, Robert William
+    birthdate: 1865
+    deathdate: 1933
+    gutenberg_agent_id: '38191'
+    url: http://www.gutenberg.org/2009/agents/38191
+    wikipedia: http://en.wikipedia.org/wiki/Robert_W._Chambers
+description: ''
+gutenberg_issued: '2008-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25441'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (State) -- History -- Revolution, 1775-1783 -- Fiction'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Fiction'
+- !lcc 'PS'
+title: The Reckoning
+url: http://www.gutenberg.org/ebooks/25441
